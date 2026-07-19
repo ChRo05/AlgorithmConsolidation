@@ -5,7 +5,7 @@
 | 1 | 規則的な計算 | [body](./topic01_regular_calc/body.md) | [exercises](./topic01_regular_calc/exercises.md) | [answers](./topic01_regular_calc/answers.md) |
 | 2 | 1次元配列の基本 | [body](./topic02_array_basic/body.md) | [exercises](./topic02_array_basic/exercises.md) | [answers](./topic02_array_basic/answers.md) |
 | 3 | 文字列処理 | [body](./topic03_string/body.md) | [exercises](./topic03_string/exercises.md) | [answers](./topic03_string/answers.md) |
-| 4 | 2次元配列 | （未作成） | | |
+| 4 | 2次元配列 | [body](./topic04_matrix/body.md) | [exercises](./topic04_matrix/exercises.md) | [answers](./topic04_matrix/answers.md) |
 | 5 | スタックとキュー | （未作成） | | |
 | 6 | ポインタとリスト | （未作成） | | |
 | 7 | 探索 | （未作成） | | |
